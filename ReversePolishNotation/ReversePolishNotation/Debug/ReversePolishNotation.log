@@ -1,0 +1,4 @@
+﻿  ReversePolishNotation.cpp
+d:\cvprojects\reversepolishnotation\reversepolishnotation\reversepolishnotation.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+d:\cvprojects\reversepolishnotation\reversepolishnotation\reversepolishnotation.cpp(99): warning C4018: “<”: 有符号/无符号不匹配
+  ReversePolishNotation.vcxproj -> D:\cvprojects\ReversePolishNotation\Debug\ReversePolishNotation.exe
